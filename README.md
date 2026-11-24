@@ -15,7 +15,7 @@ A collection of Java practice programs, exercises, and small projects, organized
 | `name_in_stars/` | `Name.java`, which prints a name made of stars along with a dice roll |
 | `sorting_algorithms/` | `Main.java`, bubble sort and selection sort on user input |
 | `quick_sort/` | `Main.java`, quick sort with the Lomuto partition scheme |
-| `hello_world/` | `Helloworld.java`, enum, string, and formatting examples |
+| `Helloworld/` | `Helloworld.java`, enum, string, and formatting examples |
 | `heap/` | `MinHeap.java`, a min-heap with insert, delete, search, and heap sort |
 | `greatest_common_divisor/` | `Main.java`, GCD using the Euclidean algorithm |
 | `Helloworld/` | Miscellaneous files, listed below |
